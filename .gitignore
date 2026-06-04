@@ -1,0 +1,6 @@
+venv/
+source/
+__pycache__/
+*.pyc
+*.save
+logs/ingest.log
