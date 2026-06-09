@@ -1,3 +1,5 @@
 [2026-06-03 21:50:52] OK: latest=real_goes16_ABI_L1b.nc | age=6min | thresholds=15/30min | dir=/home/dahn/noaa-pipeline-monitor/data/staging
 [2026-06-03 21:50:52] OK: latest=real_goes16_ABI_L1b.nc | age=6min | thresholds=9999/99999min | dir=/home/dahn/noaa-pipeline-monitor/data/staging
 [2026-06-03 21:50:52] CRITICAL: No files matching '*.nc' found in /tmp
+[2026-06-03 21:55:01] OK: latest=real_goes16_ABI_L1b.nc | age=10min | thresholds=15/30min | dir=/home/dahn/noaa-pipeline-monitor/data/staging
+[2026-06-03 22:00:01] WARNING: latest=real_goes16_ABI_L1b.nc | age=15min | thresholds=15/30min | dir=/home/dahn/noaa-pipeline-monitor/data/staging
